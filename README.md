@@ -11,7 +11,7 @@ This is a simple desktop translator app built with Python's `tkinter` for GUI an
 
 ## 🖼️ Demo
 
-> The image `google_Icon.png` should ideally have a size of **256x256 pixels** for optimal display in the README. Ensure the file is placed in the same directory as this README file.
+![A 256x256 pixel icon of the Google Translator GUI app featuring a globe and text elements, representing language translation functionality.](google_Icon.png)
 
 ## 🛠️ Requirements
 
