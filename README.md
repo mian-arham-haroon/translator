@@ -11,7 +11,7 @@ This is a simple desktop translator app built with Python's `tkinter` for GUI an
 
 ## 🖼️ Demo
 
-![App Screenshot](assets/README_screenshot.png)
+![App Screenshot](google_Icon.png)
 
 ## 🛠️ Requirements
 
