@@ -23,7 +23,7 @@ This is a simple desktop translator app built with Python's `tkinter` for GUI an
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/google-translator-gui.git
+git clone https://github.com/mian-arham-haroon/google-translator-gui.git
 cd google-translator-gui
 pip install -r requirements.txt
 python translator.py
